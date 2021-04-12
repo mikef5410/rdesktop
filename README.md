@@ -1,3 +1,7 @@
+# My fork of rdesktop, with mouse jiggler from:
+  
+https://github.com/gsomlo/rdesktop
+
 # rdesktop - A Remote Desktop Protocol client
 
 rdesktop is an open source client for Microsoft's RDP protocol. It is
